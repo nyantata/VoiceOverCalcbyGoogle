@@ -1,0 +1,7 @@
+{
+  "name": "VoiceCalc AI",
+  "description": "A real-time voice-activated calculator using Gemini Live API. Supports Japanese input and commands like 'Reset'.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
